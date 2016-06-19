@@ -6,4 +6,13 @@ Using the ShoPING device, customers eyeing a product can conveniently choose amo
 
 ![alt tag](http://iotcolumbia2016tue7.weebly.com/uploads/8/0/1/4/80146386/9402361.jpg?960)
 
+![alt tag](http://iotcolumbia2016tue7.weebly.com/uploads/8/0/1/4/80146386/4571837_orig.jpg)
+
+![alt tag](http://iotcolumbia2016tue7.weebly.com/uploads/8/0/1/4/80146386/2566839_orig.jpg)
+
+![alt tag](http://iotcolumbia2016tue7.weebly.com/uploads/8/0/1/4/80146386/9882446_orig.png)
+
+![alt tag](http://iotcolumbia2016tue7.weebly.com/uploads/8/0/1/4/80146386/1022042_orig.png)
+
+
 
