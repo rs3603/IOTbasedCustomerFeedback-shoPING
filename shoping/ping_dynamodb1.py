@@ -13,9 +13,9 @@ from boto.dynamodb2.fields import HashKey, RangeKey, KeysOnlyIndex, GlobalAllInd
 from boto.dynamodb2.types import NUMBER
 from boto.dynamodb2.items import Item
 
-ACCOUNT_ID = '970128656518'
-IDENTITY_POOL_ID = 'us-east-1:637518a9-8270-42c7-a267-e257bfea56b9'
-ROLE_ARN = 'arn:aws:iam::970128656518:role/Cognito_edisonDemoKinesisUnauth_Role'
+ACCOUNT_ID = ''
+IDENTITY_POOL_ID = ''
+ROLE_ARN = ''
 
 # Use cognito to get an identity.
 cognito = boto.connect_cognito_identity()
